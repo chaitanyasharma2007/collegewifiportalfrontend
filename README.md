@@ -31,9 +31,8 @@ This project is a **frontend-only College WiFi Portal Login Page** designed to s
 college-wifi-portal/
 │── index.html
 │── style.css
-│── script.js (optional)
-│── assets/
-│    └── images/
+|- assests
+
 ```
 
 ---
